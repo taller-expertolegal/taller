@@ -1,0 +1,16 @@
+# Secretos y configuraciones con valores
+.env*
+.dev.vars
+*.pem
+*.key
+client_secret*.json
+
+# Volcados de bases de datos y respaldos
+*.sql
+*.sql.gz
+*.dump
+*.bak
+
+# Sistema
+.DS_Store
+node_modules/
